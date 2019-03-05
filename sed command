@@ -1,0 +1,9 @@
+Command: # sed -i 's_._Hi_' filename.txt
+
+Example:
+--------
+Before:                       After:
+My name is Alien              Hi My name is Alien              
+My name is Robot              Hi My name is Robot
+My name is Pikachu            Hi My name is Pikachu
+ 
